@@ -76,12 +76,13 @@ private:
     QAction *pasteAction;
     QAction *deleteAction;
     QAction *selectRowAction;
-    QAction *selectColumnAction;
+    QAction *selectColAction;
     QAction *selectAllAction;
+    QAction *findAction;
     QAction *goToCellAction;
     QAction *recalculateAction;
     QAction *sortAction;
-    QAction *showGridAction;
+    QAction *shotwGridAction;
     QAction *autoRecalculateAction;
     QAction *aboutAction;
     QAction *aboutQtAction;
